@@ -1,3 +1,2 @@
 const logger = require('./logger')
-console.log(logger)
-logger.log('Hello World')
+logger('Hello World')
